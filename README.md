@@ -13,4 +13,8 @@ The game starts with three gears at the bottom of the screen resting their own c
 Manny puzzle game exist that invovle both shape and color along with pegs. However, not many use gears as the pieces and these game tend to color their movable pieces. To make the game more difficult, a player will need to recall the color slot each gear belongs with adding memory challenge.
 
 
-
+## What we want to receive from your design:
+* Your design languages
+* Your game design trends
+* Your pace on designing an application.
+* Your work-items and how long it take for each.
